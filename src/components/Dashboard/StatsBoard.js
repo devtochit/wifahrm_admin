@@ -33,7 +33,7 @@ function StatsBoard() {
 					icon={<TrendUp />}
 				/>
 				<Stats
-					title="Harvest"
+					title="Accrued amount"
 					subtitle="Per hour"
 					value="$1.26"
 					percent={42}
@@ -41,7 +41,7 @@ function StatsBoard() {
 					icon={<TrendUp />}
 				/>
 				<Stats
-					title="Task"
+					title="Farm lands"
 					subtitle="Total today"
 					value="1500"
 					percent={65}

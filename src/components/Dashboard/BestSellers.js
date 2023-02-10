@@ -72,7 +72,7 @@ function BestSellers() {
 	return (
 		<div className="">
 			<div className="flex justify-between items-center">
-				<h2 className="text-lg font-bold mb-3">Top Selling Products</h2>
+				<h2 className="text-lg font-bold mb-3">Planted Crops</h2>
 				<span className="ds-btn ds-btn-sm ds-btn-circle ds-btn-pastel">
 					<More variant="TwoTone" />
 				</span>
