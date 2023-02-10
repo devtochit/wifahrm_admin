@@ -23,9 +23,9 @@ function TopBar({ children }) {
 					</span>
 					<span className="text-3xl sm:text-3xl font-semibold uppercase">
 						<span className="lg:hidden">
-							SH<span className="text-primary">5 </span>
+							<span className="text-primary"></span>
 						</span>
-						<span className="hidden sm:inline">ADMIN</span>
+						<span className="hidden sm:inline">Wifahrm</span>
 					</span>
 					<span className="hidden lg:flex items-center text-lg opacity-75 px-2 uppercase">
 						<span className="text-2xl opacity-50 ml-1 mr-2"> / </span>

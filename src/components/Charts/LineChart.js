@@ -137,7 +137,7 @@ function LineChart({ data, height, width }) {
 						markerEnd="url(#marker-circle)"
 					/>
 					<Text x={margin.left} y={margin.top / 5} className="xs:text-xl font-medium fill-base-content">
-						Total Sales (over 10 days)
+						Total Harvest (over 10 days)
 					</Text>
 					{tooltipData && (
 						<Group>

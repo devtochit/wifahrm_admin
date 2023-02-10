@@ -21,7 +21,7 @@ function SideBar({ close }) {
 					<LogoSvg className="fill-current" />
 				</span>
 				<span className="text-3xl sm:text-3xl font-semibold uppercase ml-3 md:hidden lg:inline">
-					SH<span className="text-primary">5</span>
+					<span className="text-primary"> Wifahrm </span>
 				</span>
 			</Link>
 			<nav>
@@ -53,17 +53,17 @@ function SideBar({ close }) {
 							onClick={close}
 						>
 							<People className="w-7 h-7" variant="TwoTone" />
-							Clients
+							Task
 						</NavLink>
 					</li>
 					<li>
 						<NavLink
-							to="/team"
+							to=""
 							className="ds-btn-pastel border-0 rounded-box font-medium md:flex-col lg:flex-row gap-y-1"
 							onClick={close}
 						>
 							<UserSquare className="w-7 h-7" variant="TwoTone" />
-							Team
+							Harvest
 						</NavLink>
 					</li>
 				</ul>

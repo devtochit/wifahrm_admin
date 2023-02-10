@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d207ed64.css",
+    "main.js": "/static/js/main.edde30d3.js",
+    "static/media/outfit-latin-600-normal.woff": "/static/media/outfit-latin-600-normal.5a283cd8f176f3a8b484.woff",
+    "static/media/outfit-latin-800-normal.woff": "/static/media/outfit-latin-800-normal.37a84e8020d0db487ec8.woff",
+    "static/media/outfit-latin-400-normal.woff": "/static/media/outfit-latin-400-normal.626693671dcd457179ed.woff",
+    "static/media/outfit-latin-700-normal.woff": "/static/media/outfit-latin-700-normal.078970abe8e7769c5a45.woff",
+    "static/media/outfit-latin-300-normal.woff": "/static/media/outfit-latin-300-normal.7534e2f7064da72837e1.woff",
+    "static/media/outfit-latin-200-normal.woff": "/static/media/outfit-latin-200-normal.2f2eb80acc5d1603fb77.woff",
+    "static/media/outfit-latin-900-normal.woff": "/static/media/outfit-latin-900-normal.77a595adb7632763ef16.woff",
+    "static/media/outfit-latin-500-normal.woff": "/static/media/outfit-latin-500-normal.6aef2fa25f2f328fc0ff.woff",
+    "static/media/outfit-latin-100-normal.woff": "/static/media/outfit-latin-100-normal.6021e86ccebf3528e5b4.woff",
+    "static/media/outfit-latin-600-normal.woff2": "/static/media/outfit-latin-600-normal.19e0bc291d9e361c3a14.woff2",
+    "static/media/outfit-latin-400-normal.woff2": "/static/media/outfit-latin-400-normal.0e64d891414eb9716034.woff2",
+    "static/media/outfit-latin-800-normal.woff2": "/static/media/outfit-latin-800-normal.95c295609d19b19b0505.woff2",
+    "static/media/outfit-latin-200-normal.woff2": "/static/media/outfit-latin-200-normal.4006537dd66ed0f71e8c.woff2",
+    "static/media/outfit-latin-700-normal.woff2": "/static/media/outfit-latin-700-normal.8826f498a22a913b8afb.woff2",
+    "static/media/outfit-latin-300-normal.woff2": "/static/media/outfit-latin-300-normal.7dfe99d9c4c3853f515c.woff2",
+    "static/media/outfit-latin-500-normal.woff2": "/static/media/outfit-latin-500-normal.5313bc25d631bd85acf8.woff2",
+    "static/media/outfit-latin-900-normal.woff2": "/static/media/outfit-latin-900-normal.c76841ace2a912f7e9fb.woff2",
+    "static/media/outfit-latin-100-normal.woff2": "/static/media/outfit-latin-100-normal.07d05ee700f26ed8d2c2.woff2",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.6d33c3f6712aa5a807a04c37aa9cb4ce.svg",
+    "main.d207ed64.css.map": "/static/css/main.d207ed64.css.map",
+    "main.edde30d3.js.map": "/static/js/main.edde30d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d207ed64.css",
+    "static/js/main.edde30d3.js"
+  ]
+}

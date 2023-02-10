@@ -20,7 +20,7 @@ function Clients() {
 	return (
 		<div>
 			<h1 className="pb-4 mb-4 text-4xl lg:text-5xl font-bold border-b-2 border-base-300 dark:border-base-content/10">
-				Clients
+				Task
 			</h1>
 			{loading && <Loading page />}
 			{!loading && error && <NotFound error={error} />}
